@@ -1,0 +1,84 @@
+# Pi-hole Whitelist
+# This file contains domains that are commonly blocked by Pi-hole but are often needed for legitimate functionality
+# Format: One domain per line (comments start with #)
+# Last updated: 2025-09-30
+
+# Microsoft Services & Windows
+msftconnecttest.com
+www.msftconnecttest.com
+ipv6.msftconnecttest.com
+microsoftonline.com
+login.microsoftonline.com
+graph.microsoft.com
+officeclient.microsoft.com
+outlook.office365.com
+products.office.com
+licensing.mp.microsoft.com
+ctldl.windowsupdate.com
+displaycatalog.mp.microsoft.com
+sls.update.microsoft.com
+fe3.delivery.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+
+# Apple Services
+apple.com
+icloud.com
+itunes.apple.com
+s.mzstatic.com
+appleid.apple.com
+captive.apple.com
+
+# Google Services
+google.com
+googleapis.com
+android.clients.google.com
+clients2.google.com
+clients4.google.com
+play.googleapis.com
+gstatic.com
+
+# Gaming Services
+xboxlive.com
+ea.com
+epicgames.com
+store.steampowered.com
+steamcommunication.com
+
+# Email Marketing & Tracking Links
+# These domains are used by companies for legitimate email campaigns
+# Blocking these prevents email links from working properly
+links.e.wine.com
+links.e.bestbuy.com
+links.e.target.com
+links.e.walmart.com
+links.e.costco.com
+links.e.sephora.com
+links.e.amazon.com
+links.e.homedepot.com
+links.e.lowes.com
+links.e.macys.com
+links.e.nordstrom.com
+links.e.kohls.com
+click.e.apple.com
+click.e.microsoft.com
+click.e.dell.com
+click.e.lenovo.com
+email.e.ebay.com
+email.e.etsy.com
+go.e.booking.com
+go.e.expedia.com
+go.e.airbnb.com
+info.e.uber.com
+info.e.lyft.com
+news.e.reddit.com
+promo.e.spotify.com
+updates.e.steam.com
+em.e.indiegala.com
+mail.e.github.com
+sendgrid.net
+mktomail.com
+mktoresp.com
+exacttarget.com
+e2ma.net
+mailchimp.com
+constantcontact.com
