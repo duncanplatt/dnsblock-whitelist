@@ -47,6 +47,8 @@ steamcommunication.com
 # Email Marketing & Tracking Links
 # These domains are used by companies for legitimate email campaigns
 # Blocking these prevents email links from working properly
+
+# Retailers
 links.e.wine.com
 links.e.bestbuy.com
 links.e.target.com
@@ -59,22 +61,97 @@ links.e.lowes.com
 links.e.macys.com
 links.e.nordstrom.com
 links.e.kohls.com
+click.email.bestbuy.com
+email.target.com
+click.walmart.com
+email.costco.com
+click.sephora.com
+email.macys.com
+click.nordstrom.com
+email.kohls.com
+
+# Technology Companies
 click.e.apple.com
 click.e.microsoft.com
 click.e.dell.com
 click.e.lenovo.com
-email.e.ebay.com
-email.e.etsy.com
+click.e.adobe.com
+email.google.com
+email.intel.com
+click.e.hp.com
+links.e.samsung.com
+
+# Financial Institutions & Banking
+email.chase.com
+click.bankofamerica.com
+email.wellsfargo.com
+click.citi.com
+email.americanexpress.com
+click.e.discover.com
+email.capitalone.com
+click.usbank.com
+email.schwab.com
+click.fidelity.com
+email.paypal.com
+click.venmo.com
+email.robinhood.com
+
+# Airlines & Travel
+email.delta.com
+click.marriott.com
+email.hilton.com
+click.aa.com
+email.united.com
+click.southwest.com
+email.jetblue.com
+click.alaskaair.com
+email.ihg.com
+click.hyatt.com
 go.e.booking.com
 go.e.expedia.com
 go.e.airbnb.com
+email.tripadvisor.com
+click.kayak.com
+
+# E-commerce & Marketplaces
+email.e.ebay.com
+email.e.etsy.com
+click.e.shopify.com
+email.wayfair.com
+click.overstock.com
+email.newegg.com
+
+# Ride-sharing & Delivery
 info.e.uber.com
 info.e.lyft.com
+email.doordash.com
+click.grubhub.com
+email.instacart.com
+click.postmates.com
+
+# Media & Entertainment
 news.e.reddit.com
 promo.e.spotify.com
 updates.e.steam.com
 em.e.indiegala.com
+email.netflix.com
+click.hulu.com
+email.spotify.com
+click.disneyplus.com
+email.hbo.com
+click.paramountplus.com
+email.twitch.tv
+
+# Tech Platforms & Services
 mail.e.github.com
+email.gitlab.com
+click.atlassian.com
+email.slack.com
+click.dropbox.com
+email.zoom.us
+click.e.notion.so
+
+# Email Service Providers (ESPs)
 sendgrid.net
 mktomail.com
 mktoresp.com
@@ -82,3 +159,24 @@ exacttarget.com
 e2ma.net
 mailchimp.com
 constantcontact.com
+clicks.aweber.com
+email.mcsv.net
+click.e.constantcontact.com
+email.marketo.com
+click.e.emma.com
+go.pardot.com
+click.pstmrk.it
+mandrillapp.com
+sparkpostmail.com
+mailigen.com
+activehosted.com
+hubspotemail.net
+cmail19.com
+cmail20.com
+braze.com
+iterable.com
+customer.io
+postmarkapp.com
+convertkit-mail.com
+klaviyo.com
+omnisend.com
